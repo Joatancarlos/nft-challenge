@@ -32,7 +32,7 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge, I learned how to use the <span> tag
+In this challenge, I learned how to use the <span> tag.
 
 ### Continued development
 
