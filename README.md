@@ -42,6 +42,6 @@ I feel that I have difficulty putting html together in the most semantic way and
 ## Author
 
 - Website - [NFT Card](https://joatancarlos.github.io/nft-challenge/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Joatancarlos](https://www.frontendmentor.io/profile/yourusername)
 - LinkedIn - [Joatan Feitosa](www.linkedin.com/in/joatan-feitosa
 )
