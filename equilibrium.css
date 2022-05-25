@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    width: 300px;
+    height: 500px;
+    margin: 50px auto 0;
+}
+
+.equilibrium {
+    width: 260px;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+a {
+    text-decoration: none;
+}
+ 
+h1 {
+    padding: 30px 0 15px 20px;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+h1 > a {
+    color: white;
+}
+
+h1 > a:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+p {
+    padding: 0 20px 15px;
+    color: hsla(215, 52%, 70%, 0.705);
+}
+
+.spans {
+    text-align: unset;
+}
+
+.eth {
+    padding: 5px 0 5px 20px;
+    font-size: 0.9em;
+    font-weight: 600;
+    color: hsl(178, 100%, 50%);
+}
+
+.day {
+    color: hsla(215, 52%, 70%, 0.705);
+    margin: 0 20px 0 76px;
+}
+
+#ethereum {
+    width: 12px;
+    padding: 0 5px 0 0;
+    position: relative;
+    top: 4px;
+}
+
+#clock {
+    width: 16px;
+    padding: 0 2px 0 0;
+    position: relative;
+    top: 2px;
+}
+
+hr {
+    margin: 15px 20px;
+    border-color: hsla(215, 52%, 70%, 0.171);
+}
+
+.profile-photo {
+    width: 30px;
+    padding: 0 10px 0 20px;
+}
+
+.creator {
+    color: hsla(215, 52%, 70%, 0.705);
+}
+
+span > a {
+    color: white;
+}
+
+span > a:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+footer {
+    text-align: center;
+    font-size: 11.7px;
+    color: rgb(197, 197, 197);
+    padding-top: 10px;
+}
+
+footer > a {
+    color: hsl(178, 100%, 50%);
+}
+
+footer > a:hover {
+    text-decoration: underline;
+}
