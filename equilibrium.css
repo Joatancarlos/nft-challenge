@@ -51,27 +51,33 @@ p {
     color: hsla(215, 52%, 70%, 0.705);
 }
 
-.spans {
-    text-align: unset;
+.left {
+    float: left;
+    margin-bottom: 20px;
+}
+
+.right {
+    float: right;
 }
 
 .eth {
-    padding: 5px 0 5px 20px;
+    margin-left: 20px;
     font-size: 0.9em;
     font-weight: 600;
     color: hsl(178, 100%, 50%);
 }
 
 .day {
+    margin-right: 20px;
     color: hsla(215, 52%, 70%, 0.705);
-    margin: 0 20px 0 76px;
+    
 }
 
 #ethereum {
-    width: 12px;
+    width: 10px;
     padding: 0 5px 0 0;
     position: relative;
-    top: 4px;
+    top: 2px;
 }
 
 #clock {
@@ -82,7 +88,8 @@ p {
 }
 
 hr {
-    margin: 15px 20px;
+    clear: both;
+    margin: 0 20px 20px 20px;
     border-color: hsla(215, 52%, 70%, 0.171);
 }
 
